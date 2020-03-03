@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 <?php include ("navbar.php"); ?>
-=======
 <!DOCTYPE HTML>
 <html>
 <head>
@@ -10,4 +8,3 @@
 </head>
 
 <?php include_once ("navbar.php"); ?>
->>>>>>> ac02106105f78474ec7d78687a6e3f7c0d00858f

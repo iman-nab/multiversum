@@ -1,29 +1,9 @@
-<?php include 'header.php'; ?>
 
-<!-- Creating The Navbar -->
-
-<<<<<<< HEAD
 <span> Multiversum</span>
 
-<div id="mySidenav" class="sidenav">
-  <a href="#">Home</a>
-  <a href="#">Alle producten</a>
-  <a href="#">Contact</a>
-</div>
+<link rel="stylesheet" type="text/css" href="./style/style.css">
 
-=======
-<nav class="navbar navbar-default navbar-fixed-top topnav" role="navigation">
-        <div class="container topnav">
-            <!-- Brand and toggle get grouped for better mobile display -->
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-            </div>
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+<nav class="navbar" role="navigation">
                 <ul class="nav navbar-nav navbar-right">
                     <li>
                         <a href="#home">Home</a>
@@ -38,9 +18,4 @@
                         <a href="#contact">Contact</a>
                     </li>
                 </ul>
-            </div>
-            <!-- /.navbar-collapse -->
-        </div>
-        <!-- /.container -->
     </nav>
->>>>>>> ac02106105f78474ec7d78687a6e3f7c0d00858f

@@ -1,4 +1,4 @@
-.sidenav {
+.navbar {
     height: 100%;
     width: 0;
     position: fixed;
@@ -11,7 +11,7 @@
     padding-top: 60px;
   }
   
-  .sidenav a {
+  .navbar  {
     padding: 8px 8px 8px 32px;
     text-decoration: none;
     font-size: 25px;
@@ -20,14 +20,6 @@
     transition: 0.3s;
   }
   
-  .sidenav a:hover {
+  .navbar {
     color: #f1f1f1;
-  }
-  
-  .sidenav .closebtn {
-    position: absolute;
-    top: 0;
-    right: 25px;
-    font-size: 36px;
-    margin-left: 50px;
   }
